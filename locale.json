@@ -1,0 +1,162 @@
+{
+  "ru": {
+    "menu": {
+      "advantages": "Преимущества",
+      "process": "Как это работает",
+      "originality": "Оригинальность",
+      "reviews": "Отзывы",
+      "download": "Загрузки",
+      "btn": "Скачать приложение"
+    },
+    "hero":{
+      "title": "Социальная сеть нового поколения",
+      "text_1": "Первый проект, в котором помощь, оказанная вами другим пользователям, сразу будет вознаграждена криптовалютой.",
+      "text_2": "Делайте добро и получайте за это вознаграждение!"
+    },
+    "advantages":{
+      "head": "Преимущества приложения Saleslist",
+      "title_1": "Материальные лайки",
+      "title_2": "Честная награда",
+      "title_3": "Вывод криптовалюты",
+      "text_1": "Вы делаете добрые поступки — мы вознаграждаем вас криптовалютой!",
+      "text_2": "Вознаграждение за добрый  поступок или благотворительность начисляется вам в криптовалюте.",
+      "text_3": "Пользователи сами решают, кого и на сколько щедро вознаградить!",
+      "text_4": "Переведите награду в токенах в реальные деньги любым удобным для вас способом без комиссий!"
+    },
+    "novelty":{
+      "title": "Лента пользователя",
+      "text_1": "Мы переосмыслили устаревшую ленту пользователя. У нас она стала удобнее и понятнее благодаря быстрому доступу к облаку тегов и категорий. Вы легко и быстро сможете делать все, что захотите, с любым контентом. Власть над лентой в ваших руках!",
+      "text_2": "Мы максимально адаптировали интерфейс соцсети для большего удобства пользователей со смартфонами — теперь все нужные функции находятся внизу.",
+      "text_3": "Навигационный бар с быстрым доступом: Лента пользователя, Поиск, Создание поста, Сообщения, Карта, Ваш профиль. Удобство и комфорт — превыше всего!"
+    },
+    "process":{
+      "title": "Как работает Saleslist",
+      "text_1": "Как получить вознаграждение за добрые поступки? Очень просто!",
+      "text_2": "Вы создаете «добрый пост» и его поддерживают другие пользователи через лайки или используя функцию доната. В зависимости от количества лайкнувших ваш пост или перечисленного доната — вы получаете меньшее или большее вознаграждение в криптовалюте. Завоюйте любовь пользователей!"
+    },
+    "originality":{
+      "title_1": "Оригинальность Saleslist",
+      "title_2": "Индивидуальность Saleslist",
+      "title_3": "Стиль Saleslist",
+      "text_1": "Новая механика взаимодейтвия с публикациями. Лайк и комментарии располагаются в левой нижней части поста, что позволяет считывать контент быстрей, чем в Instagram, и позволяет увидеть больше контента",
+      "text_2": "Новая механика взаимодейтвия с публикациями. Лайк и комментарии располагаются в левой нижней части поста, что позволяет считывать контент быстрей, чем в Instagram, и позволяет увидеть больше контента",
+      "text_3": "Новая механика взаимодейтвия с публикациями. Лайк и комментарии располагаются в левой нижней части поста, что позволяет считывать контент быстрей, чем в Instagram, и позволяет увидеть больше контента"
+    },
+    "subscription":{
+      "title": "Подписаться",
+      "text_1": "Подпишись, чтобы быть в курсе последних событий"
+    },
+    "reviews":{
+      "head": "Отзывы",
+      "title_1": "Бадих Хилдехароев",
+      "title_2": "BБадих Хилдехароев",
+      "title_3": "Бадих Хилдеxхароев",
+      "title_4": "Бадих Хилдехароев",
+      "title_5": "Бадих Хилдехароевxx",
+      "title_6": "Бадих Хилдехароевccxc",
+      "title_7": "Бадих Хилдехароевxz",
+      "title_8": "Бадих Хилдехароевss",
+      "title_9": "Бадих Хилдехароевxx",
+      "title_10": "Бадих Хилдехароевxxx",
+      "text_1": "Отличное приложение! Позволяет получать вознаграждения за пост. Я доволен, всё супер!",
+      "text_2": "Отличное приложение! Позволяет получать вознаграждения за пост. Я доволен, всё супер!",
+      "text_3": "Отличное приложение! Позволяет получать вознаграждения за пост. Я доволен, всё супер!",
+      "text_4": "Отличное приложение! Позволяет получать вознаграждения за пост. Я доволен, всё супер!",
+      "text_5": "Отличное приложение! Позволяет получать вознаграждения за пост. Я доволен, всё супер!",
+      "text_6": "Отличное приложение! Позволяет получать вознаграждения за пост. Я доволен, всё супер!",
+      "text_7": "Отличное приложение! Позволяет получать вознаграждения за пост. Я доволен, всё супер!",
+      "text_8": "Отличное приложение! Позволяет получать вознаграждения за пост. Я доволен, всё супер!",
+      "text_9": "Отличное приложение! Позволяет получать вознаграждения за пост. Я доволен, всё супер!",
+      "text_10": "Отличное приложение! Позволяет получать вознаграждения за пост. Я доволен, всё супер!"
+    },
+    "count":{
+      "text": "Скачиваний",
+      "desc": "Многие пользователи уже получают криптовалюту за добрые дела! Присоединяйтесь!"
+    },
+    "download":{
+      "title": "Получай вознаграждения за посты прямо сейчас",
+      "text_1": "Ты делаешь добрые дела в офлайне?",
+      "text_2": "Делай их и в Saleslist и получай за это реальную криптовалюту от восхищенных пользователей — их лайки за ваши действия превращаются в реальное вознаграждение!"
+    }
+  },
+  "en": {
+    "menu": {
+      "advantages": "Advantages",
+      "process": "How it works",
+      "originality": "Innovation",
+      "reviews": "Reviews",
+      "download": "Download",
+      "btn": "Download App"
+    },
+    "hero":{
+      "title": "Next-Generation Social Media",
+      "text_1": "Easy-to-use innovative technologies",
+      "text_2": "The first startup that makes you paid with cryptocurrency for helping others users. Do good and get rewarded!"
+    },
+    "advantages":{
+      "head": "Advantages of social media Saleslist",
+      "title_1": "Paid likes",
+      "title_2": "Fair reward",
+      "title_3": "Withdrawal",
+      "text_1": "You do good - we reward you with cryptocurrency!",
+      "text_2": "You are reward with cryptocurrency for a good deed or charity. Users shall decide who is rewarded and how much!",
+      "text_3": "",
+      "text_4": "Convert reward in tokens into cash without commission in any convenient way!"
+    },
+    "novelty":{
+      "title": "New vision of feed",
+      "text_1": "We have rethought outdated feed. It became more user-friendly and clearer because of quick access to the tag and category cloud. You are able to do whatever you wish with any kind of content. You’ve power over the feed!",
+      "text_2": "We optimized social media interface as much as possible and made it more user-friendly for smartphone lovers — all the right options are down.",
+      "text_3": "The navi-bar with quick success: Feed, Search, Create a post, Messages, Map, Your profile. Convenience and comfort, above all!"
+    },
+    "process":{
+      "title": "How Saleslist works",
+      "text_1": "How to get rewarded for good deeds? Very simple!",
+      "text_2": "You create a 'good post' and other users support it with likes or donates. Depending on the number of likes or donations, you receive a bigger or little reward in cryptocurrency. Gain the user's love!"
+    },
+    "originality":{
+      "title_1": "Originality of Saleslist",
+      "title_2": "Originality of Saleslist",
+      "title_3": "Originality of Saleslist",
+      "text_1": "New interaction way of posts. Like and comments are placed in the lower left corner of the post, that let to read content faster then on instagram and to see more of it.",
+      "text_2": "New interaction way of posts. Like and comments are placed in the lower left corner of the post, that let to read content faster then on instagram and to see more of it.",
+      "text_3": "New interaction way of posts. Like and comments are placed in the lower left corner of the post, that let to read content faster then on instagram and to see more of it."
+    },
+    "subscription":{
+      "title": "Subscribe",
+      "text_1": "Subscribe to stay informed about recent events"
+    },
+    "reviews":{
+      "head": "Reviews",
+      "title_1": "Badih Hildekharoev",
+      "title_2": "Badih Hildekharoev",
+      "title_3": "Badih Hildekharoev",
+      "title_4": "Badih Hildekharoev",
+      "title_5": "Badih Hildekharoev",
+      "title_6": "Badih Hildekharoev",
+      "title_7": "Badih Hildekharoev",
+      "title_8": "Badih Hildekharoev",
+      "title_9": "Badih Hildekharoev",
+      "title_10": "Badih Hildekharoev",
+      "text_1": "Great app! Allows you to receive rewards for the post. I am satisfied, everything is super!",
+      "text_2": "Great app! Allows you to receive rewards for the post. I am satisfied, everything is super!",
+      "text_3": "Great app! Allows you to receive rewards for the post. I am satisfied, everything is super!",
+      "text_4": "Great app! Allows you to receive rewards for the post. I am satisfied, everything is super!",
+      "text_5": "Great app! Allows you to receive rewards for the post. I am satisfied, everything is super!",
+      "text_6": "Great app! Allows you to receive rewards for the post. I am satisfied, everything is super!",
+      "text_7": "Great app! Allows you to receive rewards for the post. I am satisfied, everything is super!",
+      "text_8": "Great app! Allows you to receive rewards for the post. I am satisfied, everything is super!",
+      "text_9": "Great app! Allows you to receive rewards for the post. I am satisfied, everything is super!",
+      "text_10": "Great app! Allows you to receive rewards for the post. I am satisfied, everything is super!"
+    },
+    "count":{
+      "text": "Downloads",
+      "desc": "Plenty of users are already getting cryptocurrency for doing good! Join them!"
+    },
+    "download":{
+      "title": "Get rewarded for posts right now",
+      "text_1": "Do them in Saleslist and receive for it real cryptocurrency from admiring users - their likes for your actions transform into real reward!",
+      "text_2": ""
+    }
+  }
+}
